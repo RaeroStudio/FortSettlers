@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "6ab68baab26c69de",
+    "type": "split",
+    "children": [
+      {
+        "id": "72ccadb30c8d72b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00fa99062a113a89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Документация/MarketDoc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MarketDoc"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d9b39b9361eb05e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4db8ba4e425fceb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3c2ab7a0536e846",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "fbd21c57d7c4b96f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "85a41ce7baf3cb67",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "043f0be5b909b87c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b4615fa137349e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5251b6d145abae1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TechDoc.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для TechDoc"
+            }
+          },
+          {
+            "id": "38a8c0a920728e7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TechDoc.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из TechDoc"
+            }
+          },
+          {
+            "id": "28482ecf98e44b16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "2469aa5077d3bbfb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TechDoc.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура TechDoc"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "00fa99062a113a89",
+  "lastOpenFiles": [
+    "Документация/TechDoc.md",
+    "Документация/DesignDoc.md",
+    "Документация/MarketDoc.md",
+    "Документация/ДизДок.md",
+    "Документация/техдок.md",
+    "Документация/маркетплан.md",
+    "Документация/Диздок.md",
+    "ДизДок.md",
+    "TechDoc.md",
+    "Дизайн документ.md",
+    "Документация"
+  ]
+}
