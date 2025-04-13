@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Документация/MarketDoc.md",
+                "file": "Документация/GameFramework_Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MarketDoc"
+              "title": "GameFramework_Checklist"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "043f0be5b909b87c",
@@ -170,16 +170,33 @@
   },
   "active": "00fa99062a113a89",
   "lastOpenFiles": [
-    "Документация/TechDoc.md",
-    "Документация/DesignDoc.md",
+    "Документация/GameFramework_Setup_Instructions.md",
+    "Документация/ProjectSetup_Checklist.md",
     "Документация/MarketDoc.md",
-    "Документация/ДизДок.md",
-    "Документация/техдок.md",
-    "Документация/маркетплан.md",
-    "Документация/Диздок.md",
-    "ДизДок.md",
-    "TechDoc.md",
-    "Дизайн документ.md",
+    "Чек-листы/1_Подготовительный_этап_Чек-лист.md",
+    "Документация/DevelopmentPlan.md",
+    "Документация/GameFramework_Checklist.md",
+    "Документация/TechDoc.md",
+    "Документация/UI_Setup_Instructions.md",
+    "Документация/UI_Implementation_Checklist.md",
+    "Чек-листы/UI_Setup_Checklist.md",
+    "Чек-листы/5_Подготовка_к_релизу_Чек-лист.md",
+    "Чек-листы/TestingSystem_Setup_Checklist.md",
+    "Чек-листы/AchievementSystem_Setup_Checklist.md",
+    "Чек-листы/6_Пострелизная_поддержка_Чек-лист.md",
+    "Чек-листы/4_Полировка_и_баланс_Чек-лист.md",
+    "Чек-листы/3_Углубление_механик_Чек-лист.md",
+    "Чек-листы/2_Основная_разработка_Чек-лист.md",
+    "Чек-листы/3. Система достижений.md",
+    "Чек-листы/2. Система статистики.md",
+    "Чек-листы/1. Система ИИ.md",
+    "Чек-листы/AISystem_Setup_Checklist.md",
+    "Чек-листы/ModdingSystem_Setup_Checklist.md",
+    "Чек-листы/StatisticsSystem_Setup_Checklist.md",
+    "Чек-листы/LocalizationSystem_Setup_Checklist.md",
+    "Чек-листы/OptimizationSystem_Setup_Checklist.md",
+    "Чек-листы/AudioSystem_Setup_Checklist.md",
+    "Чек-листы",
     "Документация"
   ]
 }
